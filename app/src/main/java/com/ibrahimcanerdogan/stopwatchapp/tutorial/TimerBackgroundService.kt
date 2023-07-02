@@ -1,4 +1,4 @@
-package com.ibrahimcanerdogan.stopwatchapp
+package com.ibrahimcanerdogan.stopwatchapp.tutorial
 
 import android.app.Service
 import android.content.Intent

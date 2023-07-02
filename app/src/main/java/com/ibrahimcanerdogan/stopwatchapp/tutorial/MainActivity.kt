@@ -1,10 +1,10 @@
-package com.ibrahimcanerdogan.stopwatchapp
+package com.ibrahimcanerdogan.stopwatchapp.tutorial
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import com.ibrahimcanerdogan.stopwatchapp.TimerBackgroundService.Companion.TAG
+import com.ibrahimcanerdogan.stopwatchapp.tutorial.TimerBackgroundService.Companion.TAG
 import com.ibrahimcanerdogan.stopwatchapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
